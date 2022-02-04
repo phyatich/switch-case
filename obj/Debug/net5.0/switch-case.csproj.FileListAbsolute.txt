@@ -1,0 +1,15 @@
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/bin/Debug/net5.0/switch-case.deps.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/bin/Debug/net5.0/switch-case.runtimeconfig.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/bin/Debug/net5.0/switch-case.runtimeconfig.dev.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/bin/Debug/net5.0/switch-case.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/bin/Debug/net5.0/ref/switch-case.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/bin/Debug/net5.0/switch-case.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/obj/Debug/net5.0/switch-case.csproj.AssemblyReference.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/obj/Debug/net5.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/obj/Debug/net5.0/switch-case.AssemblyInfoInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/obj/Debug/net5.0/switch-case.AssemblyInfo.cs
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/obj/Debug/net5.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/obj/Debug/net5.0/switch-case.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/obj/Debug/net5.0/ref/switch-case.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/obj/Debug/net5.0/switch-case.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/switch-case/obj/Debug/net5.0/switch-case.genruntimeconfig.cache
